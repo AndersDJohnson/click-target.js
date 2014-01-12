@@ -1,0 +1,16 @@
+{
+  "name": "click-target",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": [
+    "dist/click-target.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src",
+    "Gruntfile.js"
+  ]
+}
