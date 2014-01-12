@@ -28,7 +28,6 @@ linkElement.addEventListener('click', function (e) {
 Or with [jQuery][jquery]:
 
 ```javascript
-var linkElement = document.querySelector('a');
 $('a').on('click', function (e) {
   var target = clickTarget(e);
   // => target == "_self" || target == "_blank"
