@@ -5,13 +5,19 @@ Determine whether a link click event will open in same or new tab/window.
 
 Left-clicks with modifier keys and middle-clicks are considered new tab/window clicks.
 
-## Usage
+## Example
+
+Click link and see console output on the test page: [http://AndersDJohnson.github.io/click-target.js/test/](http://AndersDJohnson.github.io/click-target.js/test/).
+
+## Install
 
 Either download, or install via [Bower][bower]:
 
 `$ bower install click-target`
 
 Include `dist/click-target.js` or `dist/click-target.min.js` in your page.
+
+## Usage
 
 Supports [AMD][amd] and browser global (`window.clickTarget`).
 
