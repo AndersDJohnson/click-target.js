@@ -38,7 +38,7 @@ $('a').on('click', function (e) {
   var target = clickTarget(e);
   // => target == "_self" || target == "_blank"
 });
-
+```
 
 [bower]: http://bower.io/ 
 [amd]: http://en.wikipedia.org/wiki/Asynchronous_module_definition
